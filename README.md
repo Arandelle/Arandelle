@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arandelle
-- 👀 I’m interested in learning Javascript
+- 👀 I’m interested in learning Javascript and React Js
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on doing such front end and back end
 - 📫 How to reach me, please me an email at topaguintsarandell@gmail.com
