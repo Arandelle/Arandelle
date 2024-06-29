@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arandelle Paguinto
+- 👋 Hi, I’m @Arandelle Paguinto 23
 - 👀I started to create my Reactjs project since the start of our capstone project
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on doing such front end and back end
