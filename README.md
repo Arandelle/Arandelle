@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects involving both front-end and back-end development.
 
-📫 You can reach me via email at topaguintsarandell@gmail.com.
+📫 You can reach me via email at topaguintsarandell@gmail.com or Facebook account arandelle paguinto
 
 <!---
 Arandelle/Arandelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
