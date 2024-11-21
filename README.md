@@ -2,7 +2,7 @@
 
 👀 I started creating React js and React Native projects during my capstone project and found a deep passion for this technology.
 
-🌱 I’m currently learning javascript to enhance my knowledge on fundamentals of this language.
+🌱 I’m currently learning javascript and react js to enhance my knowledge on fundamentals of this language.
 
 💞️ I’m looking to collaborate on projects involving both front-end and back-end development.
 
