@@ -1,6 +1,6 @@
 👋 Hi, I’m Arandelle Paguinto, an IT student from Cavite State University, Tanza Campus 
 
-👀 I started creating React js and React Native projects during my capstone project and found a deep passion for this technology.
+👀 I started creating React js and React Native projects during my undergraduate capstone project and found a deep passion for this technology.
 
 🌱 I’m currently learning javascript and react js to enhance my knowledge on fundamentals of this language.
 
