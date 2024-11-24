@@ -8,7 +8,6 @@
 
 📫 You can reach me via email at topaguintsarandell@gmail.com or Facebook account arandelle paguinto
 
-update
 
 <!---
 Arandelle/Arandelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
