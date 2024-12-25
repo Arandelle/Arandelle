@@ -2,6 +2,8 @@
 
 👀 I started creating React js and React Native projects during my undergraduate capstone project and found a deep passion for this technology.
 
+Additionally, I am starting learning about the firebase realtime database and firebase storage.
+
 🌱 I’m currently learning javascript and react js, and other stack to enhance my knowledge on fundamentals of this language.
 
 💞️ I’m looking to collaborate on projects involving both front-end and back-end development.
