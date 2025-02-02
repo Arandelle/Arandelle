@@ -2,7 +2,7 @@
 
 👀 I started creating projects using React js and React Native projects during my undergraduate capstone project and found a deep passion for this technology.
 
-Additionally, I am starting learning about the firebase realtime database and firebase storage.
+🔥 Additionally, I am starting learning about the firebase realtime database and firebase storage.
 
 🌱 I’m currently learning javascript frameworks and other stack to enhance my knowledge on fundamentals of these language.
 
