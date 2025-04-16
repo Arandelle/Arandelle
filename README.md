@@ -4,7 +4,7 @@
 
 🔥 Additionally, I am starting learning about the firebase realtime database and firebase storage, also curious how start creating an AI
 
-🌱 I’m currently learning javascript frameworks and other stack to enhance my knowledge on fundamentals of these language.
+🌱 I’m currently learning javascript frameworks and other stack to enhance my knowledge on fundamentals of these languages
 
 💞️ I’m looking to collaborate on projects involving both front-end and back-end development. Also, looking for new technologies to upskill, I prefer an AI or any machine learning
 
