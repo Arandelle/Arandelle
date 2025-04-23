@@ -1,4 +1,4 @@
-👋 Hi, I’m Arandelle Paguinto, an aspiring IT student from Cavite State University, Tanza Campus.
+👋 Hi, I’m Arandelle N. Paguinto, an aspiring IT student from Cavite State University, Tanza Campus.
 
 👀 I started creating projects using React js and React Native projects during my undergraduate capstone project and found a deep passion for these technology.
 
