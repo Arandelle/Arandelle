@@ -1,17 +1,85 @@
-👋 Hi, I’m Arandelle N. Paguinto, an aspiring IT student from Cavite State University, Tanza Campus.
+# 👋 Hi there, I'm Arandelle Paguinto  
+🎓 Aspiring Junior Developer | 💻 Full-Stack Developer | 🌱 Lifelong Learner  
 
-👀 I started creating projects using React js and React Native projects during my undergraduate capstone project and found a deep passion for these technology.
+![Profile Views](https://komarev.com/ghpvc/?username=arandellepaguinto&style=flat-square&color=blue)
 
-🔥 Additionally, I am starting learning about the firebase realtime database and firebase storage, also curious how start creating an AI
+---
 
-🌱 I’m currently learning javascript frameworks and other stack to enhance my knowledge on fundamentals of these languages
+## 💡 About Me  
+I’m an aspiring **Junior Developer** from **Cavite State University – Tanza Campus**, with hands-on experience in building both **web** and **mobile applications**.  
+During my studies, I discovered a strong passion for developing practical, real-world systems that improve lives through technology.  
 
-💞️ I’m looking to collaborate on projects involving both front-end and back-end development. Also, looking for new technologies to upskill, I prefer an AI or any machine learning
+---
 
-📫 You can reach me via email at topaguintsarandell@gmail.com or Facebook account arandelle paguinto
+## 🚀 Featured Project  
+### 🆘 ERIS: Emergency Response and Information System (Capstone Project 2024–2025)  
+**Role:** Full-Stack Developer  
+- Developed a **mobile and web emergency response system** serving **37,000+ residents**.  
+- Integrated **Google Maps API** for **real-time routing** of responders.  
+- Implemented **Firebase Authentication**, **Realtime Database**, and **Storage** for secure and scalable data handling.  
+- Improved simulated **emergency response times by 30%** compared to manual routing.  
+- Recognized as **Best in Capstone Project (2025)** and presented at the **Student Research Symposium**.  
 
+---
 
-<!---
-Arandelle/Arandelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💼 Experience  
+### Philippine Central Engagement Services Inc. (PCES Inc.) | *Junior Developer Intern*  
+📅 *April – July 2025*  
+- Built a **job-matching platform** serving over **500 users** (PWDs, OJTs, PDLs, and job seekers).  
+- Designed **20+ wireframes in Figma** and developed **2 responsive WordPress landing pages**.  
+- Automated candidate filtering, saving **20+ hours/month** in manual screening time.  
+- Connected **120+ job seekers** with **50+ employers** through system optimization.  
+
+---
+
+## 🎓 Education  
+**Bachelor of Science in Information Technology**  
+*Cavite State University – Tanza Campus (2020–2025)*  
+
+---
+
+## ⚙️ Technical Skills  
+
+**Frontend:**  
+React.js • React Native • TypeScript • Angular • jQuery • Tailwind • Bootstrap • NativeWind  
+
+**Backend:**  
+Node.js • PHP • Python (learning Flask) • Java  
+
+**Database & Cloud:**  
+Firebase (Authentication, Firestore, Cloud Functions, Realtime Database) • MySQL • Google Maps API  
+
+**Tools & Platforms:**  
+Git • GitHub • Figma • WordPress • REST API • CI/CD fundamentals  
+
+---
+
+## 🧠 Certifications & Achievements  
+🏅 **Best in Capstone Project (2025)**  
+🎓 **Presented at Student Research Symposium** – Cavite State University  
+📱 **Completed Mobile Application Development Training** – Bayan Academy (2023)  
+💡 **Attended eGovPH Super App Orientation** – DICT Region IV-A (2024)  
+
+---
+
+## 🤖 Currently Exploring  
+- **Flask (Python Framework)** for backend development  
+- **Artificial Intelligence** and **Machine Learning** concepts  
+- Cloud-based integrations using **Firebase** and **REST APIs**  
+
+---
+
+## 📊 GitHub Stats  
+![Arandelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arandelle&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arandelle&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect With Me  
+📧 **Email:** topaguintsarandell@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/arandellepaguinto](https://linkedin.com/in/arandellepaguinto)  
+🌐 **Portfolio:** *(Coming soon!)*  
+
+---
+
+### ✨ “Code. Learn. Innovate.” ✨
