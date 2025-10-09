@@ -77,7 +77,7 @@ Git • GitHub • Figma • WordPress • REST API • CI/CD fundamentals
 
 ## 📫 Connect With Me  
 📧 **Email:** topaguintsarandell@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/arandellepaguinto](https://linkedin.com/in/arandellepaguinto)  
+💼 **LinkedIn:** [linkedin.com/in/arandellepaguinto](https://www.linkedin.com/in/arandelle-paguinto-588237285/)  
 🌐 **Portfolio:** *(Coming soon!)*  
 
 ---
