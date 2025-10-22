@@ -41,16 +41,19 @@ During my studies, I discovered a strong passion for developing practical, real-
 ## ⚙️ Technical Skills  
 
 **Frontend:**  
-React.js • React Native • TypeScript • Angular • jQuery • Tailwind • Bootstrap • NativeWind  
+React.js • Next.js • React Native • TypeScript • Angular • jQuery • Tailwind • Bootstrap • NativeWind  
 
 **Backend:**  
-Node.js • PHP • Python (learning Flask) • Java  
+Node.js • PHP • Python • Flask • FastAPI • Java  
 
 **Database & Cloud:**  
-Firebase (Authentication, Firestore, Cloud Functions, Realtime Database) • MySQL • Google Maps API  
+Firebase (Authentication, Firestore, Cloud Functions, Realtime Database) • MySQL • Google Maps API • MongoDB • Integrated AI
+
+**Authentication:**
+JWT Token, OAuth 2.0, Firebase Authentication
 
 **Tools & Platforms:**  
-Git • GitHub • Figma • WordPress • REST API • CI/CD fundamentals  
+Git • GitHub • Figma • WordPress • REST API • CI/CD fundamentals 
 
 ---
 
@@ -63,7 +66,6 @@ Git • GitHub • Figma • WordPress • REST API • CI/CD fundamentals
 ---
 
 ## 🤖 Currently Exploring  
-- **Flask (Python Framework)** for backend development  
 - **Artificial Intelligence** and **Machine Learning** concepts  
 - Cloud-based integrations using **Firebase** and **REST APIs**  
 
