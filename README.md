@@ -110,10 +110,9 @@ I’m passionate about developing **real-world systems** that create meaningful 
 
 ---
 
-## 📊 GitHub Stats
-
-![Arandelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arandellepaguinto\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=8)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arandellepaguinto\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=8)
+## 📊 GitHub Stats 
+![Arandelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arandelle&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arandelle&layout=compact&theme=tokyonight)
 
 ---
 
