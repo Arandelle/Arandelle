@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Arandelle Paguinto**
 
-🎓 Aspiring **Junior Developer** | 💻 **Full-Stack Developer** | 🌱 Lifelong Learner
+🎓 Aspiring **Junior Developer** | 💻 **Full-Stack Developer** | 🤖 **AI-Driven Innovator** | 🌱 Lifelong Learner
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arandellepaguinto\&style=flat-square\&color=blue)
 
@@ -8,12 +8,23 @@
 
 ## 💡 About Me
 
-I’m an aspiring **Junior Developer** from **Cavite State University – Tanza Campus**, with hands-on experience in building both **web** and **mobile applications**.
-I’m passionate about developing **real-world systems** that create meaningful impact through technology.
+I’m an aspiring **Junior Developer** from **Cavite State University**, with hands-on experience in building both **web** and **mobile applications**.
+I’m passionate about developing **real-world systems** that create meaningful impact through **technology and artificial intelligence**.
 
 ---
 
 ## 🚀 Featured Project
+
+### 💰 Coinwise — *AI-Powered Personal Finance and Expense Tracker (2025–Present)*
+
+**Role:** Full-Stack Developer | AI Integrator
+
+* Developed **Coinwise AI**, an **intelligent financial assistant** that provides **personalized budgeting insights**, **expense analysis**, and **financial advice**.
+* Built with **Next.js (frontend)**, **FastAPI (backend)**, and **MongoDB (database)**.
+* Integrated **AI models** for generating real-time spending insights and automation using **LangChain** and **Python-based pipelines**.
+* Focused on creating a **modern, AI-driven experience** for tracking and improving personal finances.
+
+---
 
 ### 🆘 ERIS: Emergency Response and Information System *(Capstone Project 2024–2025)*
 
@@ -56,25 +67,23 @@ I’m passionate about developing **real-world systems** that create meaningful 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat\&logo=jquery\&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
-![NativeWind](https://img.shields.io/badge/NativeWind-000000?style=flat\&logo=react\&logoColor=61DAFB)
 
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=openjdk\&logoColor=white)
 
 ### 🗄️ Database & Cloud
 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat\&logo=googlemaps\&logoColor=white)
 
 ### 🔒 Authentication & APIs
@@ -83,6 +92,12 @@ I’m passionate about developing **real-world systems** that create meaningful 
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3E8EDE?style=flat\&logo=oauth\&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat\&logo=postman\&logoColor=white)
+
+### 🧠 AI & Automation
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat\&logo=python\&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat\&logo=openai\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat\&logo=python\&logoColor=yellow)
 
 ### 🧰 Tools & Platforms
 
@@ -105,14 +120,16 @@ I’m passionate about developing **real-world systems** that create meaningful 
 
 ## 🤖 Currently Exploring
 
-* **Artificial Intelligence** and **Machine Learning** concepts
-* Cloud-based integrations using **Firebase** and **REST APIs**
+* Building **AI-powered assistants** and **financial insight models** for real-world apps like **Coinwise**.
+* Deepening skills in **FastAPI**, **LangChain**, and **AI integration** for automation and analytics.
+* Exploring **cloud computing** and **DevOps practices** for scalable deployment.
 
 ---
 
-## 📊 GitHub Stats 
-![Arandelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arandelle&show_icons=true&theme=tokyonight) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arandelle&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Arandelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arandelle\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arandelle\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -124,4 +141,6 @@ I’m passionate about developing **real-world systems** that create meaningful 
 
 ---
 
-### ✨ “Code. Learn. Innovate.” ✨
+### ✨ “Code. Learn. Innovate. Empower with AI.” ✨
+
+---
