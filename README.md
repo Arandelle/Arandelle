@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm **Arandelle Paguinto**
+# 👋 there, I'm **Arandelle Paguinto**
 
-🎓 Aspiring **Junior Developer** | 💻 **Full-Stack Developer** | 🤖 **AI-Driven Innovator** | 🌱 Lifelong Learner
+**Junior Developer** | **Full-Stack Developer** | **AI-Driven Innovator** | Lifelong Learner
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arandellepaguinto\&style=flat-square\&color=blue)
 
