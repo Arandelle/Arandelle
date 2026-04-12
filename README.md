@@ -11,6 +11,6 @@
 ## Find me elsewhere 🌍
 
 - 🚀 [Site](https://arandelle.com)
-- ✉️ [Email](hello@arandelle.com)
+- ✉️ Email me at hello@arandelle.com
 - 📸 [Instagram](https://www.instagram.com/_iseebugs?igsh=YW0ydzBhNjBxY2Zp)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arandelle-paguinto-588237285/)
