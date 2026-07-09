@@ -6,7 +6,6 @@
 ## What I'm working on 👩‍💻
 
 - 🛒 Currently creating a better way for customers to place their order - [Harrison House of Inasal & BBQ](https://www.harrisoninasalbbq.com.ph/)
-- 💳 Next Project - About company's access system that uses NFC Card for employee
 
 ## Find me elsewhere 🌍
 
