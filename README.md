@@ -6,9 +6,10 @@
 ## What I'm working on 👩‍💻
 
 - 🛒 Currently creating a better way for customers to place their order - [Harrison House of Inasal & BBQ](https://www.harrisoninasalbbq.com.ph/)
-
+- Deploying projects on Alibaba Cloud
+- Exploring the NGINX and Linux commands
+- 
 ## Find me elsewhere 🌍
-
 - 🚀 [My Portfolio](https://arandelle.com)
 - ✉️ Email me at hello@arandelle.com
 - 📸 [Instagram](https://www.instagram.com/_iseebugs?igsh=YW0ydzBhNjBxY2Zp)
